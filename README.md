@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 # SIMON-SAYS-GAME
 The Simon Says Game is an interactive memory-based game that challenges players to recall and reproduce increasingly complex sequences of colors and sounds. Inspired by the classic electronic game, this project is designed to enhance memory skills and concentration through engaging gameplay.
-=======
+
+
 # 🎮 Simon Says Game – Web-Based Memory Challenge
 
 A fun and interactive memory game built using **HTML, CSS, and JavaScript**. This project replicates the classic "Simon Says" game where the user has to remember and repeat an increasingly complex sequence of colors and sounds.
@@ -37,15 +38,11 @@ simon-says-game/
 
 ## 🎮 How to Play
 
-1. Click the **Start** button (or press any key, depending on implementation).
+1. press any key.
 2. Watch the sequence of flashing buttons and sounds.
 3. Repeat the sequence by clicking the buttons in the same order.
 4. Each correct round increases the sequence length.
 5. If you make a mistake, the game ends. You can restart and try again!
-
-## 📸 Screenshots
-
-
 
 ## 📚 Learning Outcomes
 
